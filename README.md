@@ -11,7 +11,7 @@ The project's analytical quest centers on discerning the variables that signific
 The project harnesses Python’s data-centric libraries: numpy for calculations, pandas for data structuring, and matplotlib and seaborn for visualization, to navigate and analyze the alumni dataset.
 
 ### Data Cleaning Insights
-The initial phase of the data cleaning was a meticulous process, where we categorized ages into ranges for a more structured analysis and divided the country column into binary values to isolate the influence of domestic versus international alumni. While insightful, these initial transformations did not lead to the anticipated insights. Subsequently, we pivoted to emphasize actionable variables, such as adjusting membership categories to reflect actual engagement levels and refining the donor history variables to better capture the nuances of alumni giving behavior. For instance, we consolidated various donation amounts into cumulative figures to model the potential lifetime value of each alumnus.
+The initial phase of the data cleaning was a meticulous process, where I categorized ages into ranges for a more structured analysis and divided the country column into binary values to isolate the influence of domestic versus international alumni. While insightful, these initial transformations did not lead to the anticipated insights. Subsequently, I pivoted to emphasize actionable variables, such as adjusting membership categories to reflect actual engagement levels and refining the donor history variables to better capture the nuances of alumni giving behavior. For instance, I consolidated various donation amounts into cumulative figures to model the potential lifetime value of each alumnus.
 
 ### Key Findings
 The linear regression analysis brought to light intriguing trends:
@@ -22,7 +22,7 @@ The linear regression analysis brought to light intriguing trends:
 
 Cluster Analysis & Time-Series Analysis
 * The cluster analysis identified distinct segments within the alumni, laying the groundwork for personalized engagement strategies.
-* The time-series analysis offered a historical lens, showing donation amounts and patterns over the years. while the cluster analysis identified distinct segments within the alumni, laying the groundwork for personalized engagement strategies.
+* The time-series analysis offered a historical lens, showing donation amounts and patterns over the years. 
 
 ### What’s Next
 Moving forward, the major research question - what drives an alumnus to download a digital membership card - will be tackled through logistic regression, seeking to pinpoint predictor variables for targeted marketing campaigns.
