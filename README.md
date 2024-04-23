@@ -30,4 +30,6 @@ Moving forward, the major research question - what drives an alumnus to download
 ### Feedback Request
 Your feedback or suggestions are highly valued to refine and advance this analytical journey. How can we make the digital leap more alluring to alumni? Share your thoughts.
 
+*** Data Privacy Notice: Due to the sensitive nature of the real-time data used in this project, the full dataset has not been uploaded to GitHub to maintain the confidentiality and privacy of the information. The provided Jupyter notebook includes a preview of the data and outlines the analytical methods applied, giving a glimpse into the process while respecting data protection obligations. ***
+
 
