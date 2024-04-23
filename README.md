@@ -1,4 +1,4 @@
-# Digital-Marketing-Analysis (Work-In-Progress)
+# Digital-Marketing-Analysis 
 
 ## Enhancement Strategies for Digital Membership Card Adoption
 ### Project Introduction
